@@ -41,9 +41,9 @@ CREATE TABLE `product` (
 --
 
 INSERT INTO `product` (`id`, `barkode`, `name`, `kategori`, `qty`, `harga`) VALUES
-(1, 'B8726', 'Mizone', 'Drinks', '200', '5000'),
-(2, 'B8634', 'Taro', 'Foods', '300', '10000'),
-(4, 'B6735', 'Lompat Tali', 'Toys', '345', '15000');
+(1, 'A1122', 'aqua', 'Drinks', '205', '8000'),
+(2, 'B3487', 'beng-beng', 'Foods', '100', '4500'),
+(4, 'C6485', 'monopoli', 'Toys', '245', '45000');
 
 --
 -- Indexes for dumped tables
